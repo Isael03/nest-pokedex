@@ -36,9 +36,14 @@ yarn start:dev
 http://localhost:3000/api/v2/seed
 ```
 
+
 ## Stack usado
 
 * MongoDB
 * Nestjs
 
 
+## Nota
+Deploy en render.com 
+
+![Example](./public/images/example.png)
